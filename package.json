@@ -1,0 +1,13 @@
+{
+    "name": "stock-dip-notification",
+    "version": "1.0.0",
+    "author": "shivani",
+    "dependencies": {
+        "@aws-sdk/client-ses": "^3.664.0",
+        "aws-sdk": "^2.1691.0",
+        "json2csv": "^6.0.0-alpha.2",
+        "moment-timezone": "0.5.33",
+        "yahoo-finance": "0.3.7",
+        "yahoo-finance2": "^2.13.1"
+    }
+}
